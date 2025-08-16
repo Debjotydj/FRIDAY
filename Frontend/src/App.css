@@ -1,0 +1,12 @@
+*{
+    color: #e2dcdc;
+    font-family: Roboto, 'Open Sans', 'Helvetica neue, sans-serif';
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: #212121;
+    display: flex;
+}
